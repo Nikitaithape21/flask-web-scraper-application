@@ -1,0 +1,7 @@
+web_scraper_flask/
+├── app.py
+├── Dockerfile
+├── requirements.txt
+├── templates/
+│   └── index.html
+├── .dockerignore
